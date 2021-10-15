@@ -1,0 +1,64 @@
+/* -------------------------------------------------------------------------- */
+/*                               Custome Styles                               */
+/* -------------------------------------------------------------------------- */
+
+/* ----------------------- style applied for all pages ---------------------- */
+
+* body {
+    background: #E5FF00;
+    background: -moz-linear-gradient(-45deg, #E5FF00 0%, #E8B72A 54%, #CF0A00 100%);
+    background: -webkit-linear-gradient(329deg, #E5FF00 0%, #E8B72A 54%, #CF0A00 100%);
+    background: linear-gradient(145deg, #E5FF00 0%, #E8B72A 54%, #CF0A00 100%);
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: sticky;
+    margin: 0px 14% 0 14%;
+    min-width: 400px;
+    padding: 12px 14% 5px 14%;
+}
+
+/* images style */
+img {
+    max-width: 500px;
+    max-height: 300px;
+}
+
+/* ul style */
+ul {
+    list-style-type: none;
+}
+
+/* li  style*/
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+    padding: 6px 0 1px 0px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+}
+
+
+/* link style */
+a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    font-style: oblique;
+    list-style-type: none;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+
+/* mouse over link */
+a:hover {
+    color: lightblue;
+}
