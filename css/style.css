@@ -13,8 +13,6 @@
     background: linear-gradient(145deg, #E5FF00 0%, #E8B72A 54%, #CF0A00 100%);
     background-repeat: no-repeat;
     background-size: auto;
-    height: 100%;
-    width: 100%;
     position: sticky;
     margin: 0px 14% 0 14%;
     min-width: 400px;
